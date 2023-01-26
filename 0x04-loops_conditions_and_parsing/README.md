@@ -1,7 +1,4 @@
-# 0x04. Loops, conditions and parsing
-
-## Resources:books:
-Read or watch:
+# 0x04. Loops, conditions and parsing Read or watch:
 * [Loops sample](https://intranet.hbtn.io/rltoken/XnVjFM8a1W4RfRu4TCPY-g)
 * [Variable assignment and arithmetic](https://intranet.hbtn.io/rltoken/IM0Gv6VPzwAmqzlJxETZkw)
 * [Comparison operators](https://intranet.hbtn.io/rltoken/K3E6xI9-goDM-93vsjCpPA)
